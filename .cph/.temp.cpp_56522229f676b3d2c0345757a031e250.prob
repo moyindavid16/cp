@@ -1,0 +1,1 @@
+{"name":"Local: temp","url":"/Users/moyindavid/Desktop/cp/temp.cpp","tests":[{"id":1719827295753,"input":"3\n2 1 2\n0\n0 \n3\n1 2\n1 1\n2 2 ","output":"1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/moyindavid/Desktop/cp/temp.cpp","group":"local","local":true}
