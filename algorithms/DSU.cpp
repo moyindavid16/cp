@@ -9,9 +9,9 @@ public:
     int components;
     UF(int n){
         components=n;
-        par.clear();
-        for(int i=0;i<=n;i++)par.push_back(i);
-        rank.resize(n+1, 1);
+        par = vector<int>(n+1);
+        iota(par.begin(), par.end(), 0);
+        rank = vector<int>(n+1, 1);
     }
 
     int find(int a){
