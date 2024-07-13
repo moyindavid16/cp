@@ -1,0 +1,1 @@
+{"name":"Local: seg_min","url":"/Users/moyindavid/Desktop/cp/algorithms/seg_min.cpp","tests":[{"id":1720910688577,"input":"8 4\n3 2 4 5 1 1 5 3\n2 1 4\n2 5 6\n1 2 3\n2 1 4","output":"2\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/moyindavid/Desktop/cp/algorithms/seg_min.cpp","group":"local","local":true}
